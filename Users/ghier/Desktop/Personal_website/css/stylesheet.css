@@ -1,0 +1,36 @@
+h1 {
+		color: darkviolet;
+		font-size: 50px;
+		font-family: Montserrat, sans-serif;
+}
+
+h2 {
+		color: #3253ff;
+}
+
+p {
+	color: rgb(200,000,000);
+}
+
+body {
+	background-color: beige;
+	text-align: center;
+}
+
+ul {
+
+	display: inline-block;
+	text-align: middle;
+}
+ 
+ol {
+	display: inline-block;
+}
+
+li {
+	text-align: left;
+	font-size: 20px;
+}
+nav {
+	background-color: lightblue;
+}
